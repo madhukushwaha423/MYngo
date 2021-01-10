@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "officialFoodBank"
+  "defaultProject": "officialFoodBank",
+  "cli": {
+    "analytics": "a35f1698-8d46-469a-81da-c026b13bdcb5"
+  }
 }

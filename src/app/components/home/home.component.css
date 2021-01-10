@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+#carouselExampleIndicators{
+  margin-top: 80px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 400px;
+  min-height: 300px;
+  /* position: absolute; */
+}
+.carousel-indicators li {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+}
+.info {
+  position: absolute;
+  top: 30%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.slogan p {
+  font-family: 'Lobster', cursive;
+  font-weight: 900;
+  letter-spacing: 1px;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.doSomething .card-body {
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+
+.doSomething .card-body .icon img {
+  width: 80%;
+  height: 80%;
+  border-radius: 25%;
+  margin: 0px;
+}
+
+.doSomething .card-body .card-text{
+  font-weight: 600;
+  color: rgb(4, 163, 4);
+  font-size: 15px;
+}
+.doSomething .card {
+  margin-bottom: 20px;
+  height: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pictures .card {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pictures .card img {
+  width: auto;
+  height: 200px;
+}
+.pictures .card .card-footer{
+ font-weight: 800;
+ color: black;
+}
+
+.shortMessage img {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.shortMessage .text .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.shortMessage .text .card-footer{
+  font-weight: 800;
+  color: black;
+ }
+ 
+ .shortMessage .text .card-title{
+  font-weight: 800;
+  color: black;
+ }
+
+ .shortMessage .text .card-title h5{
+  font-weight: 600;
+  color: black;
+ }
+
+
+.team .card {
+  margin-bottom: 20px;
+}
+
+.team .card img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 200px;
+  width: 100%;
+}
+
+.photo-name {
+  position: absolute;
+  width: 100%;
+  bottom: 10px;
+  text-align: center;
+  /* mix-blend-mode: difference; */
+  color: white;
+  /* filter: grayscale(100%); */
+}
+
+.member .img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.member img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.donate-now .card{
+  margin-left: 20%;
+  margin-right: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.donate-now .card .card-header{
+   font-weight: 800;
+ }
+ 
+.donate-now .card .card-footer button{
+  font-weight: 800;
+  color: white;
+}
+
+.member h3{
+  text-align: center;
+  font-weight: 900;
+}
+
+
+.member .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 20px;
+}
+.member .card img{
+  width: 100%;
+  height: 200px;
+}
+.member .card .card-footer {
+  font-weight: 600;
+  color: rgb(14, 13, 13);
+}

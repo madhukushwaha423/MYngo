@@ -1,0 +1,71 @@
+.footer{
+    overflow: hidden;
+    background-color: #21209C;
+  }
+
+.about-us{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.about-us h5{
+  margin-top: 20px;
+  color: white;
+  font-weight: 800;
+}
+.about-us p{
+  color: white;
+  font-weight: 600;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.logo{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.logo img{
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.follow-us{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.follow-us h5{
+  color: white;
+  font-weight: 800;
+}
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  
